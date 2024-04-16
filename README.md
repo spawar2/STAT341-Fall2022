@@ -15,4 +15,4 @@ Chi Square: https://youtu.be/dgehxC9tJVc
 
 [Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
 
-[Github:](https://github.com/spawar2/STAT302)
+[Github:](https://github.com/spawar2/STAT302)**Undergraduate Class & Lab
