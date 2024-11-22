@@ -11,8 +11,8 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 
 [Correlation:](https://youtu.be/yndToTyudUQ)
 
-Chi Square: https://youtu.be/dgehxC9tJVc
-
+[Chi Square:](https://youtu.be/dgehxC9tJVc)
+[Semester class review:](https://youtu.be/Pju8ecWWRAw)
 [Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
 
 [Github:](https://github.com/spawar2/STAT302)**Undergraduate Class & Lab. https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
