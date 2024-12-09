@@ -4,7 +4,7 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 [R: ggpubr, tidyverse, datarium, dplyr].
 [Data analysis:](https://youtu.be/WIvehDeVRak)
 [Data analysis:](https://youtu.be/dhIjTt26YKQ)
-
+December, 9, 2024.
 [T Test:](https://youtu.be/sIpMsN90Dt8)
 
 [Anova:](https://youtu.be/Z-S4CfsRHA0)
