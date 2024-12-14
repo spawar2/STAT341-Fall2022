@@ -6,6 +6,7 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 [Data analysis:](https://youtu.be/dhIjTt26YKQ)
 Date created/updated: December, 9, 2024.
 [T Test:](https://youtu.be/sIpMsN90Dt8)
+![download](https://github.com/user-attachments/assets/2909e954-4ccb-46fd-84aa-9af7527db128)
 
 [Anova:](https://youtu.be/Z-S4CfsRHA0)
 
