@@ -7,7 +7,9 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 Date created/updated: December, 9, 2024.
 [T Test:](https://youtu.be/sIpMsN90Dt8)
 ![download](https://github.com/user-attachments/assets/2909e954-4ccb-46fd-84aa-9af7527db128)
+https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
 
+https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 [Anova:](https://youtu.be/Z-S4CfsRHA0)
 
 [Correlation:](https://youtu.be/yndToTyudUQ)
