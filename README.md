@@ -23,4 +23,4 @@ https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-depa
 [Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6), United States of America (USA).
 
 Sep21.R: Correlation test analysis and scatter plotting.
-selected function(chisq.test, pData, rep, colnames, factor, glimpse(df), eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table). Normal distribution plot.
+ANOVA.R, Probability.R, Correlation.R, Regression.R, ANOVA.R, Probability.R, Ttest.R : selected function(chisq.test, pData, rep, colnames, factor, glimpse(df), eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table). Normal distribution plot.
